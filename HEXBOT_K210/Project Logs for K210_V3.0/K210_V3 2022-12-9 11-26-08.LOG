@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=C1 Old Footprint=C 0603_M New Footprint=C 0603_L
+Change Component Footprint: Designator=C2 Old Footprint=C 0603_M New Footprint=C 0603_L
+Change Component Footprint: Designator=C3 Old Footprint=C 0603_M New Footprint=C 0603_L
+Change Component Footprint: Designator=C4 Old Footprint=C 0603_M New Footprint=C 0603_L
+Change Component Footprint: Designator=C5 Old Footprint=C 0603_M New Footprint=C 0603_L
+Change Component Footprint: Designator=C6 Old Footprint=C 0603_M New Footprint=C 0603_L
+Change Component Footprint: Designator=C7 Old Footprint=C 0603_M New Footprint=C 0603_L
+Added Member To Class: ClassName=k210_V3.0 Member=Component * Mark

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=SW_Right Pin=JP1-13
+Removed Pin From Net: NetName=SW_UP Pin=JP1-17
+Removed Pin From Net: NetName=SW_Left Pin=JP1-19
+Added Pin To Net: NetName=SW_Left Pin=JP1-13
+Added Pin To Net: NetName=SW_Right Pin=JP1-17
+Added Pin To Net: NetName=SW_UP Pin=JP1-19

@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=IO0 Pin=JP4-6
+Removed Pin From Net: NetName=IO1 Pin=JP4-8
+Removed Pin From Net: NetName=IO2 Pin=JP4-10
+Removed Pin From Net: NetName=IO8 Pin=JP4-12
+Removed Pin From Net: NetName=IO9 Pin=JP4-14
+Removed Pin From Net: NetName=IO10 Pin=JP4-16
+Removed Pin From Net: NetName=IO11 Pin=JP4-18
+Removed Pin From Net: NetName=IO12 Pin=JP4-20
+Removed Pin From Net: NetName=IO33 Pin=JP5-1
+Removed Pin From Net: NetName=IO32 Pin=JP5-2
+Removed Pin From Net: NetName=IO34 Pin=JP5-3
+Removed Pin From Net: NetName=IO13 Pin=JP6-1
+Removed Pin From Net: NetName=IO14 Pin=JP6-3
+Removed Pin From Net: NetName=IO15 Pin=JP6-11
+Removed Pin From Net: NetName=IO18 Pin=JP6-13
+Removed Pin From Net: NetName=IO22 Pin=JP6-14
+Removed Pin From Net: NetName=IO19 Pin=JP6-15
+Removed Pin From Net: NetName=IO23 Pin=JP6-16
+Removed Pin From Net: NetName=IO20 Pin=JP6-17
+Removed Pin From Net: NetName=IO24 Pin=JP6-18
+Removed Pin From Net: NetName=CLK Pin=JP6-19
+Removed Pin From Net: NetName=IO25 Pin=JP6-20
+Removed Pin From Net: NetName=IO26 Pin=JP7-1
+Removed Pin From Net: NetName=IO27 Pin=JP7-3
+Change Component Designator: OldDesignator= NewDesignator=*
+Change Component Designator: OldDesignator= NewDesignator=*
+Added Pin To Net: NetName=IO8 Pin=JP4-6
+Added Pin To Net: NetName=IO9 Pin=JP4-8
+Added Pin To Net: NetName=IO10 Pin=JP4-10
+Added Pin To Net: NetName=IO11 Pin=JP4-12
+Added Pin To Net: NetName=IO12 Pin=JP4-14
+Added Pin To Net: NetName=IO13 Pin=JP4-16
+Added Pin To Net: NetName=IO14 Pin=JP4-18
+Added Pin To Net: NetName=IO15 Pin=JP4-20
+Added Pin To Net: NetName=IO34 Pin=JP5-2
+Added Pin To Net: NetName=IO0 Pin=JP6-2
+Added Pin To Net: NetName=IO1 Pin=JP6-4
+Added Pin To Net: NetName=IO18 Pin=JP6-5
+Added Pin To Net: NetName=IO2 Pin=JP6-6
+Added Pin To Net: NetName=IO19 Pin=JP6-7
+Added Pin To Net: NetName=IO20 Pin=JP6-9
+Added Pin To Net: NetName=CLK Pin=JP6-11
+Added Pin To Net: NetName=IO23 Pin=JP6-12
+Added Pin To Net: NetName=IO22 Pin=JP6-13
+Added Pin To Net: NetName=IO24 Pin=JP6-14
+Added Pin To Net: NetName=IO25 Pin=JP6-16
+Added Pin To Net: NetName=IO26 Pin=JP6-18
+Added Pin To Net: NetName=IO27 Pin=JP6-20
+Added Pin To Net: NetName=IO32 Pin=JP7-1
+Added Pin To Net: NetName=IO33 Pin=JP7-3
+Added Pin To Net: NetName=IO3 Pin=JP6-8
+Added Pin To Net: NetName=IO3 Pin=U1-4
+Added Net: Name=IO3
+Added Member To Class: ClassName=k210_V3.0 Member=Component * Mark
+Added Member To Class: ClassName=k210_V3.0 Member=Component * Mark
+Added Room: Name=k210_V3.0

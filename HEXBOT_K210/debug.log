@@ -1,0 +1,2 @@
+[0917/134328.440:INFO:CONSOLE(1)] "[object Object]", source: https://dfm.jiepei.com/Scripts/Pcb/dfmpcbonlineNew.js?v=202209171340 (1)
+[0917/134353.161:INFO:CONSOLE(4)] "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.", source: https://dfm.jiepei.com/Scripts/jquery-1.11.0.min.js (4)

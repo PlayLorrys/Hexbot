@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=PE10 Pin=JP3-1
+Removed Pin From Net: NetName=PE11 Pin=JP3-3
+Removed Pin From Net: NetName=PD2 Pin=JP4-9
+Removed Pin From Net: NetName=PD3 Pin=JP4-11
+Added Pin To Net: NetName=PD2 Pin=JP3-1
+Added Pin To Net: NetName=PD3 Pin=JP3-3
+Added Pin To Net: NetName=PE10 Pin=JP4-9
+Added Pin To Net: NetName=PE11 Pin=JP4-11
+Added Room: Name=Hexbot_Stm32

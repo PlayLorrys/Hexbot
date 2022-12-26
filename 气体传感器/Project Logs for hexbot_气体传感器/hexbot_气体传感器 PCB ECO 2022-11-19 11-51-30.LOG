@@ -1,0 +1,33 @@
+Added Component: Designator=U2(LM393)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20190624/C400839_FC3E4757065A64BC24F9F0B8EF99EFFB.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "LM393"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Iq per channel (Typ)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "LM393"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "IDCHIP(英锐芯)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "LM393"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multi-Part Group"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Propagation Delay (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOP-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C400839"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage（Single）"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "LM393_C400839"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DO1 Pin=U2-1
+Added Pin To Net: NetName=AO1 Pin=U2-2
+Added Pin To Net: NetName=NetR12_2 Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=5V Pin=U2-8
+Added Member To Class: ClassName=hexbot_气体传感器 Member=Component C2 0.1uF
+Added Member To Class: ClassName=hexbot_气体传感器 Member=Component R3 1K
+Added Member To Class: ClassName=hexbot_气体传感器 Member=Component R4 1K
+Added Member To Class: ClassName=hexbot_气体传感器 Member=Component R8 5.1
+Added Member To Class: ClassName=hexbot_气体传感器 Member=Component R12 RM065-V1-103
+Added Member To Class: ClassName=hexbot_气体传感器 Member=Component U2 LM393
+Added Room: Name=hexbot_气体传感器

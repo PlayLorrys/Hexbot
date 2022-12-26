@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=SW_R10 Pin=JP1-10
+Removed Pin From Net: NetName=U2_V Pin=JP1-12
+Removed Pin From Net: NetName=U2_H Pin=JP1-14
+Removed Pin From Net: NetName=NetLED7_1 Pin=LED9-1
+Added Pin To Net: NetName=U2_V Pin=JP1-10
+Added Pin To Net: NetName=U2_H Pin=JP1-12
+Added Pin To Net: NetName=SW_R10 Pin=JP1-14

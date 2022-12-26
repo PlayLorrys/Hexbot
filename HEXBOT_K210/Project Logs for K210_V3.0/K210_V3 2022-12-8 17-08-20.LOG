@@ -1,0 +1,80 @@
+Added Component: Designator=U1(M1)
+Added Pin To Net: NetName=GND Pin=U1-0
+Added Pin To Net: NetName=GND Pin=U1-0
+Added Pin To Net: NetName=GND Pin=U1-0
+Added Pin To Net: NetName=GND Pin=U1-0
+Added Pin To Net: NetName=IO0 Pin=U1-1
+Added Pin To Net: NetName=IO1 Pin=U1-2
+Added Pin To Net: NetName=IO2 Pin=U1-3
+Added Pin To Net: NetName=KEY Pin=U1-4
+Added Pin To Net: NetName=DEBUG_RX Pin=U1-5
+Added Pin To Net: NetName=DEBUG_TX Pin=U1-6
+Added Pin To Net: NetName=DEBUG_RX1 Pin=U1-7
+Added Pin To Net: NetName=DEBUG_TX1 Pin=U1-8
+Added Pin To Net: NetName=IO8 Pin=U1-9
+Added Pin To Net: NetName=IO9 Pin=U1-10
+Added Pin To Net: NetName=IO10 Pin=U1-11
+Added Pin To Net: NetName=IO11 Pin=U1-12
+Added Pin To Net: NetName=IO12 Pin=U1-13
+Added Pin To Net: NetName=IO13 Pin=U1-14
+Added Pin To Net: NetName=IO14 Pin=U1-15
+Added Pin To Net: NetName=IO15 Pin=U1-16
+Added Pin To Net: NetName=BOOT Pin=U1-17
+Added Pin To Net: NetName=IO17 Pin=U1-18
+Added Pin To Net: NetName=IO18 Pin=U1-19
+Added Pin To Net: NetName=IO19 Pin=U1-20
+Added Pin To Net: NetName=IO20 Pin=U1-21
+Added Pin To Net: NetName=CLK Pin=U1-22
+Added Pin To Net: NetName=IO22 Pin=U1-23
+Added Pin To Net: NetName=IO23 Pin=U1-24
+Added Pin To Net: NetName=IO24 Pin=U1-25
+Added Pin To Net: NetName=IO25 Pin=U1-26
+Added Pin To Net: NetName=IO26 Pin=U1-27
+Added Pin To Net: NetName=IO27 Pin=U1-28
+Added Pin To Net: NetName=IO28 Pin=U1-29
+Added Pin To Net: NetName=IO29 Pin=U1-30
+Added Pin To Net: NetName=IO30 Pin=U1-31
+Added Pin To Net: NetName=IO31 Pin=U1-32
+Added Pin To Net: NetName=IO32 Pin=U1-33
+Added Pin To Net: NetName=IO33 Pin=U1-34
+Added Pin To Net: NetName=IO34 Pin=U1-35
+Added Pin To Net: NetName=IO35 Pin=U1-36
+Added Pin To Net: NetName=IO36 Pin=U1-37
+Added Pin To Net: NetName=IO37 Pin=U1-38
+Added Pin To Net: NetName=IO38 Pin=U1-39
+Added Pin To Net: NetName=IO39 Pin=U1-40
+Added Pin To Net: NetName=IO40 Pin=U1-41
+Added Pin To Net: NetName=IO41 Pin=U1-42
+Added Pin To Net: NetName=IO42 Pin=U1-43
+Added Pin To Net: NetName=IO43 Pin=U1-44
+Added Pin To Net: NetName=IO44 Pin=U1-45
+Added Pin To Net: NetName=IO45 Pin=U1-46
+Added Pin To Net: NetName=IO46 Pin=U1-47
+Added Pin To Net: NetName=IO47 Pin=U1-48
+Added Pin To Net: NetName=5V Pin=U1-49
+Added Pin To Net: NetName=5V Pin=U1-50
+Added Pin To Net: NetName=GND Pin=U1-51
+Added Pin To Net: NetName=GND Pin=U1-52
+Added Pin To Net: NetName=1V8 Pin=U1-53
+Added Pin To Net: NetName=3V3 Pin=U1-54
+Added Pin To Net: NetName=RST Pin=U1-55
+Added Pin To Net: NetName=LCD  D7 Pin=U1-56
+Added Pin To Net: NetName=LCD  D6 Pin=U1-57
+Added Pin To Net: NetName=LCD  D5 Pin=U1-58
+Added Pin To Net: NetName=LCD  D4 Pin=U1-59
+Added Pin To Net: NetName=LCD  D3 Pin=U1-60
+Added Pin To Net: NetName=LCD  D2 Pin=U1-61
+Added Pin To Net: NetName=LCD  D1 Pin=U1-62
+Added Pin To Net: NetName=LCD  D0 Pin=U1-63
+Added Pin To Net: NetName=DVP_D7 Pin=U1-64
+Added Pin To Net: NetName=DVP_D6 Pin=U1-65
+Added Pin To Net: NetName=DVP_D5 Pin=U1-66
+Added Pin To Net: NetName=DVP_D4 Pin=U1-67
+Added Pin To Net: NetName=DVP_D3 Pin=U1-68
+Added Pin To Net: NetName=DVP_D2 Pin=U1-69
+Added Pin To Net: NetName=DVP_D1 Pin=U1-70
+Added Pin To Net: NetName=DVP_D0 Pin=U1-71
+Added Pin To Net: NetName=GND Pin=U1-72
+Added Member To Class: ClassName=k210_V3.0 Member=Component * Mark
+Added Member To Class: ClassName=k210_V3.0 Member=Component U1 M1
+Added Room: Name=k210_V3.0

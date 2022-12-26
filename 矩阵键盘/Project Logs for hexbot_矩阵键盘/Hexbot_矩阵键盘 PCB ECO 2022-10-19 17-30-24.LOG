@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator= NewDesignator=mark1
+Change Component Designator: OldDesignator= NewDesignator=mark2
+Added Component: Designator=JP2(HDR2.54-WI-2x12P)
+Add component (AddParameter): Name = "BOMÃû³Æ"; Value = "12*2P½Ó²å¼ş"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ñ§Ï°×ÊÔ´"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "°æÈ¨¹éÊô"; Value = "·â×°¿âÀ´×ÔÌÔ±¦Âô¼Ò ID£º»Æ¾§±¦Ê¯"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=hexbot_¾ØÕó¼üÅÌ Member=Component JP2 Header 2X11
+Added Member To Class: ClassName=hexbot_¾ØÕó¼üÅÌ Member=Component mark1 Mark
+Added Member To Class: ClassName=hexbot_¾ØÕó¼üÅÌ Member=Component mark2 Mark
+Added Room: Name=hexbot_¾ØÕó¼üÅÌ

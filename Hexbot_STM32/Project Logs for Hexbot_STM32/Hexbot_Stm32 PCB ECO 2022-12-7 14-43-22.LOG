@@ -1,0 +1,5 @@
+Added Component: Designator=*(Mark)
+Added Component: Designator=*(Mark)
+Added Member To Class: ClassName=Hexbot_Stm32 Member=Component * Mark
+Added Member To Class: ClassName=Hexbot_Stm32 Member=Component * Mark
+Added Room: Name=Hexbot_Stm32

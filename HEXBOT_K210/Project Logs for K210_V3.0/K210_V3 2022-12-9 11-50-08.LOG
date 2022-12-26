@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=IO34 Pin=JP5-1
+Removed Pin From Net: NetName=IO35 Pin=JP5-3
+Removed Pin From Net: NetName=IO33 Pin=JP5-4
+Added Pin To Net: NetName=IO33 Pin=JP5-1
+Added Pin To Net: NetName=IO34 Pin=JP5-3
+Added Pin To Net: NetName=IO35 Pin=JP5-4
+Added Member To Class: ClassName=k210_V3.0 Member=Component * Mark

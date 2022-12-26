@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=R1 Old Footprint=R 0603_M New Footprint=R 0603_L
+Change Component Footprint: Designator=R2 Old Footprint=R 0603_M New Footprint=R 0603_L
+Added Member To Class: ClassName=k210_V3.0 Member=Component * Mark
+Added Room: Name=k210_V3.0

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=C_4 Pin=JP1-14
+Removed Pin From Net: NetName=C_3 Pin=JP1-16
+Removed Pin From Net: NetName=C_2 Pin=JP1-18
+Removed Pin From Net: NetName=C_1 Pin=JP1-20
+Added Pin To Net: NetName=C_1 Pin=JP1-14
+Added Pin To Net: NetName=C_2 Pin=JP1-16
+Added Pin To Net: NetName=C_3 Pin=JP1-18
+Added Pin To Net: NetName=C_4 Pin=JP1-20
+Added Room: Name=hexbot_æÿ’Ûº¸≈Ã
