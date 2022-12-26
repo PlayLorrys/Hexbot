@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=P00 Pin=JP1-1
+Removed Pin From Net: NetName=P01 Pin=JP1-3
+Removed Pin From Net: NetName=P02 Pin=JP2-1
+Removed Pin From Net: NetName=P03 Pin=JP2-3
+Change Component Designator: OldDesignator= NewDesignator=mark2
+Added Pin To Net: NetName=P02 Pin=JP1-1
+Added Pin To Net: NetName=P03 Pin=JP1-3
+Added Pin To Net: NetName=P00 Pin=JP2-1
+Added Pin To Net: NetName=P01 Pin=JP2-3
+Added Member To Class: ClassName=ESP32Ö÷¿Ø Member=Component mark2 Mark

@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=5V Pin=LED_5V-1
+Removed Pin From Net: NetName=GND Pin=R7-2
+Change Component Designator: OldDesignator= NewDesignator=mark1
+Change Component Designator: OldDesignator= NewDesignator=mark2
+Change Component Designator: OldDesignator= NewDesignator=USB1
+Change Component Designator: OldDesignator=LED1_IO15 NewDesignator=LED1
+Change Component Designator: OldDesignator=LED_5V NewDesignator=LED2
+Change Component Designator: OldDesignator=SW_IO2 NewDesignator=SW1
+Added Pin To Net: NetName=GND Pin=LED2-2
+Added Pin To Net: NetName=5V Pin=R7-1
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R7-2
+Added Net: Name=NetLED2_1
+Added Member To Class: ClassName=ESP32Ö÷¿Ø Member=Component mark1 Mark
+Added Member To Class: ClassName=ESP32Ö÷¿Ø Member=Component USB1 TYPE-C16PIN

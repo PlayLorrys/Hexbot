@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=IO23 Pin=JP3-2
+Removed Pin From Net: NetName=IO22 Pin=JP3-4
+Removed Pin From Net: NetName=IO21 Pin=JP3-6
+Removed Pin From Net: NetName=IO19 Pin=JP3-8
+Removed Pin From Net: NetName=IO23 Pin=JP4-2
+Removed Pin From Net: NetName=IO22 Pin=JP4-4
+Removed Pin From Net: NetName=IO21 Pin=JP4-6
+Removed Pin From Net: NetName=IO19 Pin=JP4-8
+Change Component Designator: OldDesignator=LED1_IO17 NewDesignator=LED1
+Change Component Designator: OldDesignator=SW_IO4 NewDesignator=SW1
+Added Pin To Net: NetName=IO19 Pin=JP3-2
+Added Pin To Net: NetName=IO21 Pin=JP3-4
+Added Pin To Net: NetName=IO22 Pin=JP3-6
+Added Pin To Net: NetName=IO23 Pin=JP3-8
+Added Pin To Net: NetName=IO19 Pin=JP4-2
+Added Pin To Net: NetName=IO21 Pin=JP4-4
+Added Pin To Net: NetName=IO22 Pin=JP4-6
+Added Pin To Net: NetName=IO23 Pin=JP4-8
+Added Room: Name=ESP32Ö÷¿Ø

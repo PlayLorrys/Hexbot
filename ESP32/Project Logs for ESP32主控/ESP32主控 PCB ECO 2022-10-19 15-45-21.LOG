@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator= NewDesignator=mark1
+Change Component Designator: OldDesignator= NewDesignator=mark2
+Added Pin To Net: NetName=+5 Pin=C4-1
+Added Pin To Net: NetName=+5 Pin=C5-1
+Added Pin To Net: NetName=+5 Pin=D1-2
+Added Pin To Net: NetName=+5 Pin=LED1-1
+Added Pin To Net: NetName=+5 Pin=U1-3
+Change Net Name : Old Net Name=+5 New Net Name=+5V
+Added Member To Class: ClassName=ESP32Ö÷¿Ø Member=Component mark1 Mark
+Added Member To Class: ClassName=ESP32Ö÷¿Ø Member=Component mark2 Mark
+Added Room: Name=ESP32Ö÷¿Ø

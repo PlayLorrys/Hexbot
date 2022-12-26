@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=C1 Old Footprint=C0603 New Footprint=C 0603_L
+Change Component Footprint: Designator=C3 Old Footprint=C0603 New Footprint=C 0603_L
+Change component parameters: Designator = "C3" ("C3"); Footprint = "C0603"; UniqueID = "\KUDYUCFD" ("\KUDYUCFD")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "唯一出售店铺网址"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后，技术支持"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1" ("C1"); Footprint = "C0603"; UniqueID = "\ENTHOUCC" ("\ENTHOUCC")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "唯一出售店铺网址"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后，技术支持"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=-24
+Added Room: Name=ESP32主控

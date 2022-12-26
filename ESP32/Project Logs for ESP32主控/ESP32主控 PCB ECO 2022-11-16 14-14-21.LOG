@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=JP2-23
+Change Component Designator: OldDesignator= NewDesignator=mark1
+Change Component Designator: OldDesignator= NewDesignator=mark2
+Added Pin To Net: NetName=GND Pin=JP2-21
+Added Pin To Net: NetName=GND Pin=JP2-22
+Added Pin To Net: NetName=3V3 Pin=JP2-23
+Added Pin To Net: NetName=5V Pin=JP2-24
+Added Pin To Net: NetName=GND Pin=JP3-21
+Added Pin To Net: NetName=GND Pin=JP3-22
+Added Pin To Net: NetName=3V3 Pin=JP3-23
+Added Pin To Net: NetName=5V Pin=JP3-24
+Added Pin To Net: NetName=GND Pin=JP4-21
+Added Pin To Net: NetName=GND Pin=JP4-22
+Added Pin To Net: NetName=3V3 Pin=JP4-23
+Added Pin To Net: NetName=5V Pin=JP4-24
+Added Member To Class: ClassName=ESP32Ö÷¿Ø Member=Component mark1 Mark

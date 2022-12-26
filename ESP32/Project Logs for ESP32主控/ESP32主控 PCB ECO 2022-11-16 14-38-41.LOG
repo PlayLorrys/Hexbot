@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=IO16 Pin=LED1-1
+Removed Pin From Net: NetName=IO4 Pin=R13-1
+Removed Pin From Net: NetName=IO4 Pin=SW1-2
+Removed Pin From Net: NetName=IO2 Pin=U1-22
+Removed Pin From Net: NetName=IO15 Pin=U1-23
+Added Pin To Net: NetName=IO15 Pin=LED1-1
+Added Pin To Net: NetName=IO2 Pin=R13-1
+Added Pin To Net: NetName=IO2 Pin=SW1-2
+Added Pin To Net: NetName=IO4 Pin=U1-22
+Added Pin To Net: NetName=IO16 Pin=U1-23
+Added Member To Class: ClassName=ESP32Ö÷¿Ø Member=Component mark2 Mark

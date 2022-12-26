@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator= NewDesignator=JP1
+Change Component Designator: OldDesignator= NewDesignator=JP2
+Change Component Designator: OldDesignator= NewDesignator=JP3
+Change Component Designator: OldDesignator= NewDesignator=JP4
+Change Component Designator: OldDesignator= NewDesignator=mark1
+Change Component Designator: OldDesignator= NewDesignator=mark2
+Change Net Name : Old Net Name=SVN New Net Name=IO39
+Change Net Name : Old Net Name=SVP New Net Name=IO36
+Added Member To Class: ClassName=ESP32主控 Member=Component JP1 Header 2X11
+Added Member To Class: ClassName=ESP32主控 Member=Component JP2 Header 2X11
+Added Member To Class: ClassName=ESP32主控 Member=Component JP3 Header 2X11
+Added Member To Class: ClassName=ESP32主控 Member=Component JP4 Header 2X11
+Added Member To Class: ClassName=ESP32主控 Member=Component mark1 Mark
+Added Member To Class: ClassName=ESP32主控 Member=Component mark2 Mark
+Added Room: Name=ESP32主控

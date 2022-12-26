@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator= NewDesignator=mark1
+Change Component Designator: OldDesignator= NewDesignator=mark2
+Change Component Designator: OldDesignator=Port1 NewDesignator=JP1
+Change Component Designator: OldDesignator=Port2 NewDesignator=JP2
+Change Component Designator: OldDesignator=Port3 NewDesignator=JP3
+Change Component Designator: OldDesignator=Port4 NewDesignator=JP4
+Added Component: Designator=D1(SOD-323)
+Add component (AddParameter): Name = "BOM名称"; Value = "肖特基二极管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "属性"; Value = "40V/2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "欢迎光临"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBUS Pin=D1-1
+Added Pin To Net: NetName=5V Pin=D1-2
+Added Member To Class: ClassName=ESP32主控 Member=Component D1 B5919WS
+Added Member To Class: ClassName=ESP32主控 Member=Component mark1 Mark
+Added Room: Name=ESP32主控

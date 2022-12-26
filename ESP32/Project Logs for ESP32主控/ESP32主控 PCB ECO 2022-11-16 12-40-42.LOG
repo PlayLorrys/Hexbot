@@ -1,0 +1,15 @@
+Added Component: Designator=U?(PCA9555DW)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "PCA9555DW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "PCA9555DW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TI(µÂÖÝÒÇÆ÷)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "PCA9555DW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOIC-24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C2870300"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "PCA9555DW"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=ESP32Ö÷¿Ø Member=Component U? PCA9555DW

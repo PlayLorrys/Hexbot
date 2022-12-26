@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=IO5 Pin=JP1-12
+Removed Pin From Net: NetName=RTS Pin=Q1-2
+Removed Pin From Net: NetName=EN Pin=Q1-3
+Removed Pin From Net: NetName=IO16 Pin=U1-22
+Change Component Footprint: Designator=Q1 Old Footprint=SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR New Footprint=SOT23-3N
+Change Component Footprint: Designator=Q2 Old Footprint=SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR New Footprint=SOT23-3N
+Change Component Comment : Designator=Q1 Old Comment=S8050 New Comment=SS8050
+Change Component Comment : Designator=Q2 Old Comment=S8050 New Comment=SS8050
+Change Component Designator: OldDesignator= NewDesignator=mark1
+Change Component Designator: OldDesignator= NewDesignator=mark2
+Change Component Designator: OldDesignator= NewDesignator=USB1
+Change Component Designator: OldDesignator=LED_IO15 NewDesignator=LED1
+Change Component Designator: OldDesignator=SW_IO2 NewDesignator=SW1
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR"; UniqueID = "\SPGVUBYF" ("\SPGVUBYF")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "高频放大-NPN型"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "属性"; Value = "40V 1.5A 1W 100MHZ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2" ("Q2"); Footprint = "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR"; UniqueID = "\MXKGDSNS" ("\MXKGDSNS")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "高频放大-NPN型"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "属性"; Value = "40V 1.5A 1W 100MHZ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=IO16 Pin=JP1-12
+Added Pin To Net: NetName=EN Pin=Q1-2
+Added Pin To Net: NetName=RTS Pin=Q1-3
+Added Pin To Net: NetName=IO5 Pin=U1-22
+Added Member To Class: ClassName=ESP32主控 Member=Component mark1 Mark
+Added Member To Class: ClassName=ESP32主控 Member=Component mark2 Mark
+Added Member To Class: ClassName=ESP32主控 Member=Component USB1 TYPE-C16PIN
+Added Room: Name=ESP32主控
